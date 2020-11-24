@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Archivo is a grotesque font reminiscent of late nineteenth century. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages.
+Archivo is a grotesque font reminiscent of late nineteenth century. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages. It is now part of the Omnibus-Type Press Series.
 
 ![Sample of Archivo Family.](./documentation/Archivo.png "Archivo")
 
